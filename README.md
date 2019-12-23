@@ -53,6 +53,8 @@ sensor其他功能并未实现，例如set_contrast、set_saturation、set_gainc
 ```
 
 ### 5.实际演示：
+![figure1](https://github.com/SphinxEVK/openMV_on_RT1064/blob/master/figures/%E4%BA%8C%E7%BB%B4%E7%A0%81%E8%AF%86%E5%88%AB.jpg)
 
 
+![figure2](https://github.com/SphinxEVK/openMV_on_RT1064/blob/master/figures/%E9%A2%9C%E8%89%B2%E8%AF%86%E5%88%AB.jpg)
 
