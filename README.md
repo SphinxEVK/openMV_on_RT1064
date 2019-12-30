@@ -60,3 +60,7 @@ sensor其他功能并未实现，例如set_contrast、set_saturation、set_gainc
 
 ### 6.新增使用USB方式下载固件的脚本：
 使用原厂提供的flashloader功能，可以通过USB进行对固件的直接烧录，使用详情请见[program_tool](https://github.com/SphinxEVK/openMV_on_RT1064/blob/master/program_tool)。此方式的优点是不借助其他调试/烧录工具进行MCU的烧写，但功能只限于烧写/擦除，不具备绑定IDE调试的功能。
+
+### 7.提交了源码工程目录
+
+​	感谢大家对本项目的支持，由衷感谢每一个支持我们的小伙伴，本次更新了源码，并将原来的目录做了新的划分，请注意查找和使用。另外不要忘记为我们打小星星哦~
